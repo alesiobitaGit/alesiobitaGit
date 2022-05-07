@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alesiobitaGit, call me just Alesio!
+- 👀 I’m interested in DevOps field in CI\CD, Kubernetes and automatization processes.
+- 🌱 I’m currently learning as much as possible. Knowledge is endless.
+- 📫 How to reach me ? Email me on alessio.bita@gmail.com.
